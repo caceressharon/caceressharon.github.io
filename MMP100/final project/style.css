@@ -1,0 +1,16 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color:#FFFFFF;
+}
+
+p{
+	font-size:150%;
+}
+
+img{
+	max-width:40%;
+}
+
+h1{
+	text-decoration:italic;
+}
